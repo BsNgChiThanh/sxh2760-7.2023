@@ -1,6 +1,8 @@
 # PHÁC ĐỒ SỐT XUẤT HUYẾT #
 
-**Quyết định 2760/QĐ-BYT ngày 04 tháng 7 năm 2023**
+[Bấm vào đây để tải Quyết định 2760/QĐ-BYT ngày 04 tháng 7 năm 2023.pdf](https://github.com/BsNgChiThanh/sxh2760-7.2023/files/12161878/2760.Phac.d.di.u.tr.sxh.2023.byt.pdf)
+
+
 
 ![0001](https://github.com/BsNgChiThanh/sxh2760-7.2023/assets/82578024/f84323f6-725a-4ba3-88d3-18dbfc3d0313)
 ![0002](https://github.com/BsNgChiThanh/sxh2760-7.2023/assets/82578024/504bc402-d3ae-445e-98e8-cfb8720ce006)
