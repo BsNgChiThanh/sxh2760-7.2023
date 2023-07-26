@@ -57,3 +57,5 @@
 9. Có chỉ định lọc máu.
 10. Trước chuyển đến bệnh viện tuyến trên.
 11. Theo ý kiến hội chẩn cần tham vấn tuyến trên.
+
+[Cho phép sử dụng Hes 130k Danton.pdf](https://github.com/BsNgChiThanh/sxh2760-7.2023/files/12167999/Cho.phep.s.d.ng.Hes.130k.Danton.pdf)
