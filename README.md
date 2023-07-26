@@ -27,3 +27,33 @@
 ![0017](https://github.com/BsNgChiThanh/sxh2760-7.2023/assets/82578024/fdac8d7d-6007-4c33-9c21-6b008a71e4e0)
 ![10 yếu tố tiên lượng](https://github.com/BsNgChiThanh/sxh2760-7.2023/assets/82578024/ee0013d4-cc7f-4bbc-9593-38fc4ec538e0)
 ![CPAP](https://github.com/BsNgChiThanh/sxh2760-7.2023/assets/82578024/6a52e2fe-0987-48c6-9ce6-51cf0ab2bf4a)
+
+## QUI ĐỊNH HỘI CHẨN: ##
+###  A. Chỉ định hội chẩn tại khoa, hội chẩn bệnh viện: ###
+1. Sốc SXH Dengue nặng.
+2. Tái sốc (Sau 6h truyền dịch mới gọi là tái sốc)
+3. SXH Dengue cảnh báo kèm hematocrit tiếp tục tăng sau bù dịch điện giải theo phác đồ.
+4. Sốc SXH Dengue thất bại với bù dịch điện giải giờ đầu.
+5. Khó thở xuất hiện khi truyền dịch.
+6. Hematocrit tăng quá cao ≥ 50% hoặc ≤ 35%.
+7. Xuất huyết tiêu hóa: nôn ra máu, đi ngoài ra máu.
+8. Có tổn thương gan (men gan ≥ 400U/l).
+9. Rối loạn tri giác.
+10. Chẩn đoán phân biệt nhiễm khuẩn huyết.
+11. Nhũ nhi < 1 tuổi hoặc dư cân.
+12. Bệnh lý tim, phổi, thận, mãn tính.
+13. Bác sĩ lo lắng hoặc không an tâm khi điều trị.
+
+###  B. Chỉ định hội chẩn với bệnh viện tuyến trên: ###
+
+1. Sốc kéo dài thất bại với cao phân tử > 100ml/kg và thuốc vận mạch, tăng co cơ tim.
+2. Tái sốc nhiều lần (≥ 2 lần).
+3. Suy hô hấp thất bại với thở máy.
+4. Hội chứng ARDS.
+5. Suy thận cấp.
+6. Suy gan cấp.
+7. Hôn mê/co giật.
+8. Xuất huyết tiêu hóa nặng thất bại với bù máu và sản phẩm máu.
+9. Có chỉ định lọc máu.
+10. Trước chuyển đến bệnh viện tuyến trên.
+11. Theo ý kiến hội chẩn cần tham vấn tuyến trên.
